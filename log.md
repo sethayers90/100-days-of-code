@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 3, 2017
+### Day 0: June 10, 2017
 
 
-**Today's Progress**: Restarted the JavaScript section for FreeCodeCamp
+**Today's Progress**: Worked through FreeCodeCamp's JavaScript section
 
-**Thoughts:** I really haven't given much effort to learning JS yet, so I have re-devoted myself to learning JS.
+**Thoughts:** Since I've decided to "change" the rules slightly for awhile I'm counting working through the examples and challenges in the FreeCodeCamp curriculum
