@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 10, 2017
+### Day 0: Febuary 13, 2021
 
 
-**Today's Progress**: Worked through FreeCodeCamp's JavaScript section
+**Today's Progress**: Worked through App Acacdemy Open curriculum
 
-**Thoughts:** Since I've decided to "change" the rules slightly for awhile I'm counting working through the examples and challenges in the FreeCodeCamp curriculum
+**Thoughts:** Decided to go through another "bootcamp" to strengthen my programming skills. Starting with the basics, we learned about basic number operators and minipulating strings. Very minimal code writing, it was mostly just writing simple "puts" statments to with what was learned.
