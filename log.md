@@ -11,3 +11,7 @@
 
 **Today's Progress**: Worked through App Acacdemy Open curriculum
 **Thoughts:** Decided to actually code in a code editor, because more practice is always useful. Learned about methods and conditionals in Ruby. Honestly, this is all really basic to me, but, I'm trying to keep my head on straight and push through. 
+
+### Day 2: Febuary 17, 2021
+**Today's Progress**: Finished the conditionals section and started oin loops
+**Thoughts** Being that I know some programming to an extent I know how important paying attention is during this section loops are pretty vital. I had to miss a couple days becuase of mother nature but Im back 
