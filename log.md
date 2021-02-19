@@ -15,3 +15,7 @@
 ### Day 2: Febuary 17, 2021
 **Today's Progress**: Finished the conditionals section and started oin loops
 **Thoughts** Being that I know some programming to an extent I know how important paying attention is during this section loops are pretty vital. I had to miss a couple days becuase of mother nature but Im back 
+
+### Day 3: Febuary 18,2021
+**Today's Progress**: Finished the loops section watched the lectures in the array section
+**Thoughts** It's nice to be back programming it really is reginiting my passion even though I'm just working through the basics. Loops are essential and so are arrays so I started to feel tired towards the ene of my time and decided to call it quits before my two hours was up.
