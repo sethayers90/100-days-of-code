@@ -19,3 +19,7 @@
 ### Day 3: Febuary 18,2021
 **Today's Progress**: Finished the loops section watched the lectures in the array section
 **Thoughts** It's nice to be back programming it really is reginiting my passion even though I'm just working through the basics. Loops are essential and so are arrays so I started to feel tired towards the ene of my time and decided to call it quits before my two hours was up.
+
+### Day 4: Febuary 19, 2021
+**Today's Progress**: Started the arrays section it feels a lot loops and I'm kind flying through it
+**Thoughts** Tonight was a short night I'm feeling pretty tired from work this week. I'll have to make the time up tomorrow.
