@@ -23,3 +23,7 @@
 ### Day 4: Febuary 19, 2021
 **Today's Progress**: Started the arrays section it feels a lot loops and I'm kind flying through it
 **Thoughts** Tonight was a short night I'm feeling pretty tired from work this week. I'll have to make the time up tomorrow.
+
+### Day 5: Febuary 22, 2021
+**Today's Progress**: Spent some extra time coding tonight and finished the array section
+**Thoughts**Struggled with some personal stuff this weekend but wanted to hit the ground running and finish the array section
