@@ -27,3 +27,7 @@
 ### Day 5: Febuary 22, 2021
 **Today's Progress**: Spent some extra time coding tonight and finished the array section
 **Thoughts**Struggled with some personal stuff this weekend but wanted to hit the ground running and finish the array section
+
+### Day 6: Febuary 23, 2021
+**Today's Progress**: Watche some videos at the start of the enumeration section and was falling asleep don't feel like I'm retaining anything
+**Thoughts** Hopefully tomorrow I can do bette just don't want to cheat myself out of learning
